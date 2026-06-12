@@ -165,9 +165,5 @@ def main_menu():
 
 main_menu()
 
-'''
-ISSUES:
 
-1. Computer will play a random move with potentially zero value if there is no immediate winning or losing move
 
-'''
